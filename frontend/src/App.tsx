@@ -1,9 +1,25 @@
-import Navbar from './components/Navbar';
-import React from 'react';
+import {
+  BrowserRouter,
+  Route,
+  Routes
+} from "react-router-dom";
+
+import Form from 'pages/Form';
+import Listing from 'pages/Listing';
+import Navbar from "components/Navbar";
+
 function App() {
   return (
-   <Navbar />
-    );
+    <BrowserRouter>
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Listing />} />
+        <Route path="/form">
+          <Route path=":movieId" element={<Form />} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
+  );
 }
 
 export default App;
