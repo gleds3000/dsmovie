@@ -1,23 +1,20 @@
-package com.gleds3000.dsmovie.entities;
+package com.gleds3000.dsmovie.dto;
 
-import javax.persistence.*;
 
-@Entity
-@Table(name = "tb_movie")
-public class Movie {
+import com.gleds3000.dsmovie.entities.Movie;
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
+public class MovieDTO {
     private Long id;
     private String title;
     private Double score;
-    private Integer count ;
+    private Integer count;
     private String image;
 
-    public Movie(){
+    public MovieDTO() {
+
     }
 
-    public Movie(Long id, String title, Double score, Integer count, String image) {
+    public MovieDTO(Long id, String title, Double score, Integer count, String image) {
         this.id = id;
         this.title = title;
         this.score = score;
@@ -25,6 +22,13 @@ public class Movie {
         this.image = image;
     }
 
+    public MovieDTO(Movie movie) {
+        id = movie.getId();
+        title = movie.getTitle();
+        score = movie.getScore();
+        count = movie.getCount();
+        image = movie.getImage();
+    }
     public Long getId() {
         return id;
     }
@@ -64,4 +68,5 @@ public class Movie {
     public void setImage(String image) {
         this.image = image;
     }
+
 }
