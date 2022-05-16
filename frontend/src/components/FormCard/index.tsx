@@ -78,7 +78,7 @@ function FormCard( { movieId } : Props) {
                 </form >
                 <Link to="/">
                     <button className="btn btn-primary dsmovie-btn mt-3">Cancelar</button>
-                    </Link>
+                </Link>
             </div >
         </div >
     );
