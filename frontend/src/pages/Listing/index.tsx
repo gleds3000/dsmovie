@@ -6,7 +6,7 @@ import { MoviePage } from "types/movie";
 import Pagination from "components/Navbar/Pagination";
 import axios from "axios";
 
-function Listing(){
+function Listing() {
     const [pageNumber, setPageNumber] = useState(0);
 
     const [page, setPage] = useState<MoviePage>({
@@ -35,39 +35,21 @@ function Listing(){
 
     return (
         <>
-        <Pagination/>
-        <div className="container">
-            <div className="row">
-                <div className="col-sm-6 col-lg-4 col-xl-3" mb-3>
-                    <MovieCard/>         
+            <Pagination />
+            <div className="container">
+                <div className="row">
+                    {page.content.map(movie =>    (
+                            <div key={movie.id} className="col-sm-6 col-lg-4 col-xl-3 mb-3">
+                                <MovieCard movie = {movie} />
+                            </div>
+                        )
+                    )}
+
                 </div>
-                <div className="col-sm-6 col-lg-4 col-xl-3" mb-3>
-                    <MovieCard/>         
-                </div>
-                <div className="col-sm-6 col-lg-4 col-xl-3" mb-3>
-                    <MovieCard/>         
-                </div>
-                <div className="col-sm-6 col-lg-4 col-xl-3">
-                    <MovieCard/>         
-                </div>
-                <div className="col-sm-6 col-lg-4 col-xl-3">
-                    <MovieCard/>         
-                </div>
-                <div className="col-sm-6 col-lg-4 col-xl-3">
-                    <MovieCard/>         
-                </div>
-                
-                <div className="col-sm-6 col-lg-4 col-xl-3">
-                    <MovieCard/>         
-                </div>
-               
+
             </div>
-            
-        </div>
-        
-            
         </>
-        
+
     );
 }
 
