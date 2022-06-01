@@ -22,8 +22,8 @@ function Listing() {
     });
 
     useEffect(() => {
-        //axios.get(`${BASE_URL}/movies?size=12&page=${pageNumber}`)
-        axios.get("https://dsmovie-gleds3000.herokuapp.com/movie?size=12")  
+        axios.get(`${BASE_URL}/movies?size=12&page=${pageNumber}`)
+        //axios.get("https://dsmovie-gleds3000.herokuapp.com/movie?size=12")  
         .then(response => {
                 const data = response.data as MoviePage;
                 setPage(data);
