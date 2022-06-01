@@ -1549,7 +1549,7 @@
 
 "@netlify/build@^27.1.3":
   version "27.1.3"
-  resolved "https://registry.yarnpkg.com/@netlify/build/-/build-27.1.3.tgz#255128693ccdf164b7e69bd3aea01a050460e8b4"
+  resolved "https://registry.npmjs.org/@netlify/build/-/build-27.1.3.tgz"
   integrity sha512-M/MZUqjXP+mUCbcxKEWTiN2XNiz1Xyc1+bD2/MApgbBiujFkp0fwHNYaLxNShLGLQyHYceTN2d5hz74QMUYiUA==
   dependencies:
     "@bugsnag/js" "^7.0.0"
@@ -1653,7 +1653,7 @@
 
 "@netlify/config@^18.0.1":
   version "18.0.1"
-  resolved "https://registry.yarnpkg.com/@netlify/config/-/config-18.0.1.tgz#4cfa0feb151b063bff4bd0f7c955bf9b7c065ec9"
+  resolved "https://registry.npmjs.org/@netlify/config/-/config-18.0.1.tgz"
   integrity sha512-DqRjJfFIh+sDXzwpn4xoO5+xp4TjWF9GZ0y+RPpwyZpoL6h/kGJx13bsNrpiTGz07aS0GX8wYljeMGj/M8ABRw==
   dependencies:
     chalk "^5.0.0"
@@ -1700,7 +1700,7 @@
 
 "@netlify/edge-bundler@^1.2.0":
   version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@netlify/edge-bundler/-/edge-bundler-1.2.0.tgz#16547965ad27820bfe282f388eb87d0879658bd8"
+  resolved "https://registry.npmjs.org/@netlify/edge-bundler/-/edge-bundler-1.2.0.tgz"
   integrity sha512-8Vi1eTy6kZ/a3uSy4xRGTlG07Lc4RHSHu0tMbjXqSA1Xmv2uFa85UUKqXzD+HMNGTDWaYPMlRiJ89QYvPpcVeg==
   dependencies:
     common-path-prefix "^3.0.0"
@@ -1727,7 +1727,7 @@
 
 "@netlify/esbuild-darwin-64@0.14.25":
   version "0.14.25"
-  resolved "https://registry.yarnpkg.com/@netlify/esbuild-darwin-64/-/esbuild-darwin-64-0.14.25.tgz#7cd831b458586788cad2219c59a09b29b36fb71f"
+  resolved "https://registry.npmjs.org/@netlify/esbuild-darwin-64/-/esbuild-darwin-64-0.14.25.tgz"
   integrity sha512-V1GAIfYLsCIcGfGfyAQ+VhbJ/GrzrEkMamAZd5jO1I2T1XHyPMe4vYV7W7AZzcwcYzpdlj8MXIESCODlCDXnCQ==
 
 "@netlify/esbuild-darwin-arm64@0.14.25":
@@ -1822,7 +1822,7 @@
 
 "@netlify/esbuild@0.14.25":
   version "0.14.25"
-  resolved "https://registry.yarnpkg.com/@netlify/esbuild/-/esbuild-0.14.25.tgz#8299e8ac8e32b0bf71cdc0860c26e6d904b3ef60"
+  resolved "https://registry.npmjs.org/@netlify/esbuild/-/esbuild-0.14.25.tgz"
   integrity sha512-ko0cMTbYpajNr0Sy6kvSqR+JDvgU/vjJhO061K1h8+Zs4MlF5AUhaITkpSOrP3g45zp++IEwN1Brxr+/BIez+g==
   optionalDependencies:
     "@netlify/esbuild-android-64" "0.14.25"
@@ -1965,7 +1965,7 @@
 
 "@netlify/plugins-list@^6.25.0", "@netlify/plugins-list@^6.26.0":
   version "6.26.0"
-  resolved "https://registry.yarnpkg.com/@netlify/plugins-list/-/plugins-list-6.26.0.tgz#0ada946622fdc4b1eb7d17fe5e2cda927c7cabfb"
+  resolved "https://registry.npmjs.org/@netlify/plugins-list/-/plugins-list-6.26.0.tgz"
   integrity sha512-Hl3wCMMLo4En9nW0y+lHWXmxAHqCI01ItT4hQrClsMmImi3rHwHC7Gd3DpNfsqLXZhK1bmcWYxq06N/uwwtihA==
 
 "@netlify/run-utils@^4.0.0":
@@ -2014,7 +2014,7 @@
 
 "@netlify/zip-it-and-ship-it@5.9.2", "@netlify/zip-it-and-ship-it@^5.9.2":
   version "5.9.2"
-  resolved "https://registry.yarnpkg.com/@netlify/zip-it-and-ship-it/-/zip-it-and-ship-it-5.9.2.tgz#b8dca0886950183b17fa5837a63083f3003d88bc"
+  resolved "https://registry.npmjs.org/@netlify/zip-it-and-ship-it/-/zip-it-and-ship-it-5.9.2.tgz"
   integrity sha512-a86fQwRg9fwgf8jaMLod5oeFnGHZG2xzepKSwakxgr/X7T2U4GIewYmFENZ3pZNiU75YJOiunnizxHhzzPep5w==
   dependencies:
     "@babel/parser" "7.16.8"
@@ -3021,7 +3021,7 @@
 
 "@typescript-eslint/types@5.27.0":
   version "5.27.0"
-  resolved "https://registry.yarnpkg.com/@typescript-eslint/types/-/types-5.27.0.tgz#c3f44b9dda6177a9554f94a74745ca495ba9c001"
+  resolved "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.27.0.tgz"
   integrity sha512-lY6C7oGm9a/GWhmUDOs3xAVRz4ty/XKlQ2fOLr8GAIryGn0+UBOoJDWyHer3UgrHkenorwvBnphhP+zPmzmw0A==
 
 "@typescript-eslint/typescript-estree@5.23.0":
@@ -3052,7 +3052,7 @@
 
 "@typescript-eslint/typescript-estree@^5.13.0":
   version "5.27.0"
-  resolved "https://registry.yarnpkg.com/@typescript-eslint/typescript-estree/-/typescript-estree-5.27.0.tgz#7965f5b553c634c5354a47dcce0b40b94611e995"
+  resolved "https://registry.npmjs.org/@typescript-eslint/typescript-estree/-/typescript-estree-5.27.0.tgz"
   integrity sha512-QywPMFvgZ+MHSLRofLI7BDL+UczFFHyj0vF5ibeChDAJgdTV8k4xgEwF0geFhVlPc1p8r70eYewzpo6ps+9LJQ==
   dependencies:
     "@typescript-eslint/types" "5.27.0"
@@ -3093,7 +3093,7 @@
 
 "@typescript-eslint/visitor-keys@5.27.0":
   version "5.27.0"
-  resolved "https://registry.yarnpkg.com/@typescript-eslint/visitor-keys/-/visitor-keys-5.27.0.tgz#97aa9a5d2f3df8215e6d3b77f9d214a24db269bd"
+  resolved "https://registry.npmjs.org/@typescript-eslint/visitor-keys/-/visitor-keys-5.27.0.tgz"
   integrity sha512-46cYrteA2MrIAjv9ai44OQDUoCZyHeGIc4lsjCUX2WT6r4C+kidz1bNiR4017wHOPUythYeH+Sc7/cFP97KEAA==
   dependencies:
     "@typescript-eslint/types" "5.27.0"
@@ -3738,7 +3738,7 @@ ast-module-types@^2.3.2, ast-module-types@^2.4.0, ast-module-types@^2.7.0, ast-m
 
 ast-module-types@^3.0.0:
   version "3.0.0"
-  resolved "https://registry.yarnpkg.com/ast-module-types/-/ast-module-types-3.0.0.tgz#9a6d8a80f438b6b8fe4995699d700297f398bf81"
+  resolved "https://registry.npmjs.org/ast-module-types/-/ast-module-types-3.0.0.tgz"
   integrity sha512-CMxMCOCS+4D+DkOQfuZf+vLrSEmY/7xtORwdxs4wtcC1wVgvk2MqFFTwQCFhvWsI4KPU9lcWXPI8DgRiz+xetQ==
 
 ast-types-flow@^0.0.7:
@@ -4746,7 +4746,7 @@ commander@^9.0.0:
 
 commander@^9.1.0:
   version "9.3.0"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-9.3.0.tgz#f619114a5a2d2054e0d9ff1b31d5ccf89255e26b"
+  resolved "https://registry.npmjs.org/commander/-/commander-9.3.0.tgz"
   integrity sha512-hv95iU5uXPbK83mjrJKuZyFM/LBAoCV/XhVGkS5Je6tl7sxr6A0ITMw5WoRV46/UaJ46Nllm3Xt7IaJhXTIkzw==
 
 common-path-prefix@^3.0.0:
@@ -5529,7 +5529,7 @@ detective-amd@^3.1.0:
 
 detective-amd@^4.0.1:
   version "4.0.1"
-  resolved "https://registry.yarnpkg.com/detective-amd/-/detective-amd-4.0.1.tgz#1a827d9e4fa2f832506bd87aa392f124155bca3a"
+  resolved "https://registry.npmjs.org/detective-amd/-/detective-amd-4.0.1.tgz"
   integrity sha512-bDo22IYbJ8yzALB0Ow5CQLtyhU1BpDksLB9dsWHI9Eh0N3OQR6aQqhjPsNDd69ncYwRfL1sTo7OA9T3VRVSe2Q==
   dependencies:
     ast-module-types "^3.0.0"
@@ -5547,7 +5547,7 @@ detective-cjs@^3.1.1:
 
 detective-cjs@^4.0.0:
   version "4.0.0"
-  resolved "https://registry.yarnpkg.com/detective-cjs/-/detective-cjs-4.0.0.tgz#316e2c7ae14276a5dcfe0c43dc05d8cf9a0e5cf9"
+  resolved "https://registry.npmjs.org/detective-cjs/-/detective-cjs-4.0.0.tgz"
   integrity sha512-VsD6Yo1+1xgxJWoeDRyut7eqZ8EWaJI70C5eanSAPcBHzenHZx0uhjxaaEfIm0cHII7dBiwU98Orh44bwXN2jg==
   dependencies:
     ast-module-types "^3.0.0"
@@ -5562,7 +5562,7 @@ detective-es6@^2.2.1:
 
 detective-es6@^3.0.0:
   version "3.0.0"
-  resolved "https://registry.yarnpkg.com/detective-es6/-/detective-es6-3.0.0.tgz#78c9ef5492d5b59748b411aecaaf52b5ca0f0bc2"
+  resolved "https://registry.npmjs.org/detective-es6/-/detective-es6-3.0.0.tgz"
   integrity sha512-Uv2b5Uih7vorYlqGzCX+nTPUb4CMzUAn3VPHTV5p5lBkAN4cAApLGgUz4mZE2sXlBfv4/LMmeP7qzxHV/ZcfWA==
   dependencies:
     node-source-walk "^5.0.0"
@@ -5588,7 +5588,7 @@ detective-postcss@^4.0.0:
 
 detective-postcss@^6.0.1:
   version "6.1.0"
-  resolved "https://registry.yarnpkg.com/detective-postcss/-/detective-postcss-6.1.0.tgz#01ca6f83dbc3158540fb0e6a6c631f3998946e54"
+  resolved "https://registry.npmjs.org/detective-postcss/-/detective-postcss-6.1.0.tgz"
   integrity sha512-ZFZnEmUrL2XHAC0j/4D1fdwZbo/anAcK84soJh7qc7xfx2Kc8gFO5Bk5I9jU7NLC/OAF1Yho1GLxEDnmQnRH2A==
   dependencies:
     is-url "^1.2.4"
@@ -5606,7 +5606,7 @@ detective-sass@^3.0.1:
 
 detective-sass@^4.0.1:
   version "4.0.1"
-  resolved "https://registry.yarnpkg.com/detective-sass/-/detective-sass-4.0.1.tgz#2a9e303a0bd472d00aaa79512334845e3acbaffc"
+  resolved "https://registry.npmjs.org/detective-sass/-/detective-sass-4.0.1.tgz"
   integrity sha512-80zfpxux1krOrkxCHbtwvIs2gNHUBScnSqlGl0FvUuHVz8HD6vD2ov66OroMctyvzhM67fxhuEeVjIk18s6yTQ==
   dependencies:
     gonzales-pe "^4.3.0"
@@ -5623,7 +5623,7 @@ detective-scss@^2.0.1:
 
 detective-scss@^3.0.0:
   version "3.0.0"
-  resolved "https://registry.yarnpkg.com/detective-scss/-/detective-scss-3.0.0.tgz#c3c7bc4799f51515a4f0ed1e8ca491151364230f"
+  resolved "https://registry.npmjs.org/detective-scss/-/detective-scss-3.0.0.tgz"
   integrity sha512-37MB/mhJyS45ngqfzd6eTbuLMoDgdZnH03ZOMW2m9WqJ/Rlbuc8kZAr0Ypovaf1DJiTRzy5mmxzOTja85jbzlA==
   dependencies:
     gonzales-pe "^4.3.0"
@@ -5636,7 +5636,7 @@ detective-stylus@^1.0.0:
 
 detective-stylus@^2.0.0:
   version "2.0.1"
-  resolved "https://registry.yarnpkg.com/detective-stylus/-/detective-stylus-2.0.1.tgz#d528dfa7ef3c4eb2fbc9a7249d54906ec4e05d09"
+  resolved "https://registry.npmjs.org/detective-stylus/-/detective-stylus-2.0.1.tgz"
   integrity sha512-/Tvs1pWLg8eYwwV6kZQY5IslGaYqc/GACxjcaGudiNtN5nKCH6o2WnJK3j0gA3huCnoQcbv8X7oz/c1lnvE3zQ==
 
 detective-typescript@^7.0.0:
@@ -5651,7 +5651,7 @@ detective-typescript@^7.0.0:
 
 detective-typescript@^9.0.0:
   version "9.0.0"
-  resolved "https://registry.yarnpkg.com/detective-typescript/-/detective-typescript-9.0.0.tgz#57d674cec49ec775460ab975b5bcbb5c2d32ff8e"
+  resolved "https://registry.npmjs.org/detective-typescript/-/detective-typescript-9.0.0.tgz"
   integrity sha512-lR78AugfUSBojwlSRZBeEqQ1l8LI7rbxOl1qTUnGLcjZQDjZmrZCb7R46rK8U8B5WzFvJrxa7fEBA8FoD/n5fA==
   dependencies:
     "@typescript-eslint/typescript-estree" "^5.13.0"
@@ -7083,7 +7083,7 @@ get-amd-module-type@^3.0.0:
 
 get-amd-module-type@^4.0.0:
   version "4.0.0"
-  resolved "https://registry.yarnpkg.com/get-amd-module-type/-/get-amd-module-type-4.0.0.tgz#3d4e5b44eec81f8337157d7c52c4fa9389aff78b"
+  resolved "https://registry.npmjs.org/get-amd-module-type/-/get-amd-module-type-4.0.0.tgz"
   integrity sha512-GbBawUCuA2tY8ztiMiVo3e3P95gc2TVrfYFfpUHdHQA8WyxMCckK29bQsVKhYX8SUf+w6JLhL2LG8tSC0ANt9Q==
   dependencies:
     ast-module-types "^3.0.0"
@@ -8317,7 +8317,7 @@ is-unicode-supported@^1.2.0:
 
 is-url-superb@^4.0.0:
   version "4.0.0"
-  resolved "https://registry.yarnpkg.com/is-url-superb/-/is-url-superb-4.0.0.tgz#b54d1d2499bb16792748ac967aa3ecb41a33a8c2"
+  resolved "https://registry.npmjs.org/is-url-superb/-/is-url-superb-4.0.0.tgz"
   integrity sha512-GI+WjezhPPcbM+tqE9LnmsY5qqjwHzTvjJ36wxYX5ujNXefSUJ/T17r5bqDV8yLhcgB59KTPNOc9O9cmHTPWsA==
 
 is-url@^1.2.4:
@@ -9899,7 +9899,7 @@ module-definition@^3.3.1:
 
 module-definition@^4.0.0:
   version "4.0.0"
-  resolved "https://registry.yarnpkg.com/module-definition/-/module-definition-4.0.0.tgz#5b39cca9be28c5b0fec768eb2d9fd8de08a2550b"
+  resolved "https://registry.npmjs.org/module-definition/-/module-definition-4.0.0.tgz"
   integrity sha512-wntiAHV4lDn24BQn2kX6LKq0y85phHLHiv3aOPDF+lIs06kVjEMTe/ZTdrbVLnQV5FQsjik21taknvMhKY1Cug==
   dependencies:
     ast-module-types "^3.0.0"
@@ -10260,7 +10260,7 @@ node-source-walk@^4.0.0, node-source-walk@^4.2.0:
 
 node-source-walk@^5.0.0:
   version "5.0.0"
-  resolved "https://registry.yarnpkg.com/node-source-walk/-/node-source-walk-5.0.0.tgz#7cf93a0d12408081531fc440a00d7019eb3d5665"
+  resolved "https://registry.npmjs.org/node-source-walk/-/node-source-walk-5.0.0.tgz"
   integrity sha512-58APXoMXpmmU+oVBJFajhTCoD8d/OGtngnVAWzIo2A8yn0IXwBzvIVIsTzoie/SrA37u+1hnpNz2HMWx/VIqlw==
   dependencies:
     "@babel/parser" "^7.0.0"
@@ -11662,7 +11662,7 @@ postcss-values-parser@^2.0.1:
 
 postcss-values-parser@^6.0.2:
   version "6.0.2"
-  resolved "https://registry.yarnpkg.com/postcss-values-parser/-/postcss-values-parser-6.0.2.tgz#636edc5b86c953896f1bb0d7a7a6615df00fb76f"
+  resolved "https://registry.npmjs.org/postcss-values-parser/-/postcss-values-parser-6.0.2.tgz"
   integrity sha512-YLJpK0N1brcNJrs9WatuJFtHaV9q5aAOj+S4DI5S7jgHlRfm0PIbDCAFRYMQD5SHq7Fy6xsDhyutgS0QOAs0qw==
   dependencies:
     color-name "^1.1.4"
@@ -11716,7 +11716,7 @@ precinct@^8.2.0:
 
 precinct@^9.0.1:
   version "9.0.1"
-  resolved "https://registry.yarnpkg.com/precinct/-/precinct-9.0.1.tgz#64e7ea0de4bea1b73572e50531dfe297c7b8a7c7"
+  resolved "https://registry.npmjs.org/precinct/-/precinct-9.0.1.tgz"
   integrity sha512-hVNS6JvfvlZ64B3ezKeGAcVhIuOvuAiSVzagHX/+KjVPkYWoCNkfyMgCl1bjDtAFQSlzi95NcS9ykUWrl1L1vA==
   dependencies:
     commander "^9.1.0"
@@ -11922,7 +11922,7 @@ quick-lru@^5.1.1:
 
 quote-unquote@^1.0.0:
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/quote-unquote/-/quote-unquote-1.0.0.tgz#67a9a77148effeaf81a4d428404a710baaac8a0b"
+  resolved "https://registry.npmjs.org/quote-unquote/-/quote-unquote-1.0.0.tgz"
   integrity sha1-Z6mncUjv/q+BpNQoQEpxC6qsigs=
 
 raf@^3.4.1:
@@ -13898,15 +13898,10 @@ type-fest@^1.0.2:
   resolved "https://registry.npmjs.org/type-fest/-/type-fest-1.4.0.tgz"
   integrity sha512-yGSza74xk0UG8k+pLh5oeoYirvIiWo5t0/o3zHHAO2tRDiZcxWP7fywNlXhqb6/r6sWvwi+RsyQMWhVLe4BVuA==
 
-type-fest@^2.0.0, type-fest@^2.5.0:
-  version "2.12.0"
-  resolved "https://registry.npmjs.org/type-fest/-/type-fest-2.12.0.tgz"
-  integrity sha512-Qe5GRT+n/4GoqCNGGVp5Snapg1Omq3V7irBJB3EaKsp7HWDo5Gv2d/67gfNyV+d5EXD+x/RF5l1h4yJ7qNkcGA==
-
-type-fest@^2.11.2:
-  version "2.12.2"
-  resolved "https://registry.npmjs.org/type-fest/-/type-fest-2.12.2.tgz"
-  integrity sha512-qt6ylCGpLjZ7AaODxbpyBZSs9fCI9SkL3Z9q2oxMBQhs/uyY+VD8jHA8ULCGmWQJlBgqvO3EJeAngOHD8zQCrQ==
+type-fest@^2.0.0, type-fest@^2.11.2, type-fest@^2.5.0:
+  version "2.13.0"
+  resolved "https://registry.npmjs.org/type-fest/-/type-fest-2.13.0.tgz"
+  integrity sha512-lPfAm42MxE4/456+QyIaaVBAwgpJb6xZ8PRu09utnhPdWwcyj9vgy6Sq0Z5yNbJ21EdxB5dRU/Qg8bsyAMtlcw==
 
 type-is@~1.6.18:
   version "1.6.18"
@@ -13935,7 +13930,7 @@ typescript@^4.4.2, typescript@^4.5.4:
 
 typescript@^4.5.5:
   version "4.7.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.7.2.tgz#1f9aa2ceb9af87cca227813b4310fff0b51593c4"
+  resolved "https://registry.npmjs.org/typescript/-/typescript-4.7.2.tgz"
   integrity sha512-Mamb1iX2FDUpcTRzltPxgWMKy3fhg0TN378ylbktPGPK/99KbDtMQ4W1hwgsbPAsG3a0xKa1vmw4VKZQbkvz5A==
 
 uid-safe@2.1.5:
