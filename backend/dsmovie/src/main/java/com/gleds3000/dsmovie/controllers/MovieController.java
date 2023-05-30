@@ -22,6 +22,8 @@ public class MovieController {
     @GetMapping
     public Page<MovieDTO> findAll(Pageable pageable){
 
+        LOGGER.info("Lista todos os filmes");
+
         return service.findAll(pageable);
     }
 
@@ -29,7 +31,6 @@ public class MovieController {
     public MovieDTO findById(@PathVariable Long id){
 
         LOGGER.info("Detalhes do filme por Id {}", id);
-
 
         return service.findById(id);
     }
